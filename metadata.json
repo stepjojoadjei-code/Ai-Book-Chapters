@@ -1,0 +1,7 @@
+{
+  "name": "AI Book Chapter Summarizer",
+  "description": "An application that uses AI to summarize book chapters into bullet points, highlighting main takeaways and memorable quotes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
